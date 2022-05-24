@@ -7,7 +7,13 @@ f
 6app/src/main/java/com/example/dagger2/MainActivity2.kt,c/a/cafa5c46a5fe58498dfc85e3bc865a2b8d7deb9c
 s
 Capp/src/main/java/com/example/dagger2/di/module/SimpleDateModule.kt,4/c/4c88a47cddeb4febc92bc9ef828a31021053cbff
-P
- app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 a
 1app/src/main/java/com/example/dagger2/AppClass.kt,1/7/17515df2dacf8e6794f7e6dcdb138aee54bf7bda
+q
+Aapp/src/main/java/com/example/dagger2/di/module/ActivityModule.kt,0/0/002deef795a8b4b09326ca34e0ee8771ceddaede
+e
+5app/src/main/java/com/example/dagger2/MainActivity.kt,d/4/d4b2ae8eed2f13ffc7f2afd2eab04c0b685dac28
+g
+7app/src/main/java/com/example/dagger2/di/DiComponent.kt,b/5/b54123d3abbd5faa3eac36f54ba8d3c66362b1d3
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
